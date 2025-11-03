@@ -11,16 +11,13 @@
   <a href="https://keerthikalluraya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.sahynex.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sahynex%20Solutions-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sahynex"/>
-  </a>
+ 
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🌱 Currently **upskilling at JSpiders** in *Java Full-Stack Development*  
-- 💼 Working part-time at **[Sahynex Tech Solutions](https://www.sahynex.com/)**  
 - 🎨 **Design Lead** @ *Information Science Student Developer Community (ISDC)*  
 - 📧 Reach me at: **keerthikallurayam@gmail.com**  
 
