@@ -24,14 +24,14 @@ Currently working as a Data Engineer while continuously documenting my learning 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeerthiPrasadKallurayaM&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=captmk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 Data Engineer at **Oitro Technologies**
+- 💼 Data Engineer at a startup
 - 📊 Working on Procurement Analytics & CSRD solutions
 - 🌱 Currently learning:
   - SQL
@@ -123,7 +123,7 @@ A structured roadmap documenting my journey from beginner to Data Engineer throu
 - Real-world Projects
 
 ⭐ **Repository:**  
-👉 https://github.com/KeerthiPrasadKallurayaM/Data-Engineering-Roadmap
+👉 https://github.com/captmk/Data-Engineering-Journey
 
 ---
 
@@ -142,14 +142,14 @@ A structured roadmap documenting my journey from beginner to Data Engineer throu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KeerthiPrasadKallurayaM&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=captmk&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiPrasadKallurayaM&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captmk&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KeerthiPrasadKallurayaM&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=captmk&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ A structured roadmap documenting my journey from beginner to Data Engineer throu
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthiPrasadKallurayaM&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=captmk&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
