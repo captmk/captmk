@@ -10,17 +10,21 @@ Currently working as a Data Engineer while continuously documenting my learning 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keerthi-prasad-kalluraya-m">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/keerthi-prasad-kalluraya-m" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:keerthikallurayam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://keerthikalluraya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://keerthikalluraya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeerthiPrasadKallurayaM&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -29,7 +33,7 @@ Currently working as a Data Engineer while continuously documenting my learning 
 
 - 💼 Data Engineer at **Oitro Technologies**
 - 📊 Working on Procurement Analytics & CSRD solutions
-- 🌱 Currently learning
+- 🌱 Currently learning:
   - SQL
   - Python
   - Azure
@@ -37,8 +41,9 @@ Currently working as a Data Engineer while continuously documenting my learning 
   - FastAPI
   - React + TypeScript
   - System Design
-- 📚 Exploring Cloud, Data Pipelines and Analytics Engineering
+- 📚 Exploring Cloud, Data Pipelines, Data Warehousing & Analytics Engineering
 - 🎯 Goal: Become a world-class Data Engineer
+- 📫 Reach me at **keerthikallurayam@gmail.com**
 
 ---
 
@@ -46,26 +51,20 @@ Currently working as a Data Engineer while continuously documenting my learning 
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,sql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,mysql" />
 </p>
 
 ### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind" />
 </p>
 
 ### Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma" />
 </p>
 
 ---
@@ -74,86 +73,116 @@ Currently working as a Data Engineer while continuously documenting my learning 
 
 ### 🌍 Procurement Analytics Platform
 
-Developing enterprise procurement solutions by working with:
-
-- Procurement data
-- Business analytics
-- Frontend development
-- Testing
-- Documentation
-- Feature implementation
-- Bug fixing
-
----
+- Procurement Analytics
+- Frontend Development
+- Testing & Validation
+- Bug Fixing
+- Business Documentation
+- Feature Development
 
 ### 📄 CSRD Platform
 
-Working on
-
 - Data Flow Diagrams
-- Architecture Diagrams
+- System Architecture
 - Client Environment Documentation
 - CI/CD Documentation
-- User Guides
-
----
+- User Documentation
 
 ### 📚 Learning in Public
 
-Currently documenting my journey towards becoming a Data Engineer through
+I'm documenting my journey towards becoming a Data Engineer by learning:
 
 - SQL
 - Python
 - Azure
-- Data Engineering Concepts
+- Data Engineering
+- ETL
+- Data Warehousing
 - System Design
 - Business Understanding
 
 ---
 
-# 🌐 Previous Web Projects
+# 🚀 Featured Repository
+
+## 📘 Data Engineering Roadmap
+
+A structured roadmap documenting my journey from beginner to Data Engineer through hands-on learning, notes, real-world projects, and continuous improvement.
+
+### Topics Covered
+
+- SQL
+- Python
+- Git & GitHub
+- Linux
+- Azure
+- Data Engineering Fundamentals
+- ETL & Data Pipelines
+- Data Warehousing
+- System Design
+- Real-world Projects
+
+⭐ **Repository:**  
+👉 https://github.com/KeerthiPrasadKallurayaM/Data-Engineering-Roadmap
+
+---
+
+# 🌐 Previous Projects
 
 - 🌐 Sahynex Tech Solutions
 - 🎓 Sahyadri College Website
 - 📰 Heggade Vahini
-- 🛕 Shri Harihareshwara Temple
-- 🛕 Chokkadi Sri Rama Temple
+- 🛕 Shri Harihareshwara Temple Website
+- 🛕 Chokkadi Sri Rama Temple Website
 - 🛠 HRMatters (Ongoing)
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=KeerthiPrasadKallurayaM&theme=tokyonight&show_icons=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KeerthiPrasadKallurayaM&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KeerthiPrasadKallurayaM&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiPrasadKallurayaM&layout=compact&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiPrasadKallurayaM&layout=compact&theme=tokyonight)
+</p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KeerthiPrasadKallurayaM&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthiPrasadKallurayaM&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- Master SQL
-- Master Python
-- Build scalable Data Pipelines
-- Learn Azure Data Services
-- Contribute to Open Source
-- Build Real-world Data Engineering Projects
-- Become an Azure Data Engineer
+- ✅ Master SQL
+- ✅ Master Python
+- ✅ Learn Azure Data Services
+- ✅ Build ETL Pipelines
+- ✅ Build Real-world Data Engineering Projects
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
+- ✅ Become an Azure Data Engineer
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
-- 📧 **keerthikallurayam@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/keerthi-prasad-kalluraya-m**
-- 🌐 Portfolio: **keerthikalluraya.vercel.app**
+- 📧 Email: **keerthikallurayam@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/keerthi-prasad-kalluraya-m
+- 🌐 Portfolio: https://keerthikalluraya.vercel.app
 
 ---
 
-> *"Learning one commit at a time."* 🚀
+<p align="center">
+<i>"Learning one commit at a time."</i> 🚀
+</p>
