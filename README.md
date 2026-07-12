@@ -91,12 +91,12 @@ I'm a Data Engineer with an interest in data engineering, cloud technologies, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=captmk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Keerthi's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captmk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=captmk&show_icons=true&theme=tokyonight&hide_border=true" alt="Keerthi's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captmk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=captmk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=captmk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
