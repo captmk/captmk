@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerthi Prasad Kalluraya M</h1>
 
 <h3 align="center">
-Data Engineer | SQL | Python | Azure | FastAPI | React
+Data Engineer · SQL · Python · Azure · FastAPI · React
 </h3>
 
 <p align="center">
@@ -10,184 +10,120 @@ I'm a Data Engineer with an interest in data engineering, cloud technologies, an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keerthi-prasad-kalluraya-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:keerthikallurayam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://keerthikalluraya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=captmk&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=captmk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💼 Data Engineer at a Germany-based startup
-- 📊 Working on Procurement Analytics & CSRD solutions
-- 🌱 Currently learning
-  - SQL
-  - Python
-  - Azure
-  - Data Engineering
-  - FastAPI
-  - React + TypeScript
-  - System Design
+- 📊 Working on Procurement Analytics and CSRD solutions
+- 🌱 Currently deepening my skills in SQL, Python, Azure, Data Engineering, FastAPI, React + TypeScript, and System Design
 - 📚 Documenting my learning publicly through projects and notes
-- 🎯 Currently focused on becoming a better Data Engineer every day.
+- 🎯 Focused on becoming a better Data Engineer every day
 - 📫 Reach me at **keerthikallurayam@gmail.com**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
+**Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,mysql" alt="Languages" />
 </p>
 
-### Frameworks
-
+**Frameworks**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind" alt="Frameworks" />
 </p>
 
-### Cloud & Tools
-
+**Cloud & Tools**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma" alt="Cloud and tools" />
 </p>
 
 ---
 
-# 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
-### Procurement Analytics Platform
+**Procurement Analytics Platform**
+- Procurement analytics and reporting
+- Frontend development
+- Testing, validation, and bug fixing
+- Feature development and business documentation
 
-- Procurement Analytics
-- Frontend Development
-- Testing & Validation
-- Feature Development
-- Bug Fixing
-- Business Documentation
+**CSRD Platform**
+- Data flow diagrams and system architecture
+- Client environment documentation
+- CI/CD documentation
+- User documentation
 
-### CSRD Platform
-
-- Data Flow Diagrams
-- System Architecture
-- Client Environment Documentation
-- CI/CD Documentation
-- User Documentation
-
-### Learning in Public
-
-I'm documenting my learning journey in
-
-- SQL
-- Python
-- Azure
-- Git & GitHub
-- Linux
-- ETL
-- Data Warehousing
-- Data Engineering
+**Learning in Public**
+- SQL, Python, Azure, Git & GitHub, Linux
+- ETL, Data Warehousing, Data Engineering
 - System Design
 
 ---
 
-# 🚀 Featured Repository
+## 🌐 Previous Projects
 
-## 📘 Data Engineering Journey
-
-A repository documenting my journey into Data Engineering through structured notes, hands-on practice, and real-world projects.
-
-### Topics Covered
-
-- SQL
-- Python
-- Git & GitHub
-- Linux
-- Azure
-- ETL
-- Data Warehousing
-- Data Engineering Fundamentals
-- System Design
-- Projects
-
-⭐ Repository:
-
-**https://github.com/captmk/Data-Engineering-Journey**
+- Sahynex Tech Solutions
+- Sahyadri College Website
+- Heggade Vahini
+- Shri Harihareshwara Temple Website
+- Chokkadi Sri Rama Temple Website
+- HRMatters (ongoing)
 
 ---
 
-# 🌐 Previous Projects
-
-- 🌐 Sahynex Tech Solutions
-- 🎓 Sahyadri College Website
-- 📰 Heggade Vahini
-- 🛕 Shri Harihareshwara Temple Website
-- 🛕 Chokkadi Sri Rama Temple Website
-- 🛠 HRMatters (Ongoing)
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=captmk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captmk&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=captmk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Keerthi's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captmk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=captmk&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=captmk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=captmk&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=captmk&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </p>
+
+> Note: these stats are generated by third-party services (github-readme-stats / streak-stats). If a card doesn't render, it's usually a temporary outage on their end — refresh the page after a few minutes.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- SQL
-- Python
-- Azure
-- FastAPI
-- React
-- Data Engineering
-- Cloud Fundamentals
+- SQL, Python, Azure
+- FastAPI, React
+- Data Engineering, Cloud Fundamentals
 - System Design
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 **Email:** keerthikallurayam@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/keerthi-prasad-kalluraya-m
-
-🌐 **Portfolio:**  
-https://keerthikalluraya.vercel.app
+- 📧 **Email:** keerthikallurayam@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/keerthi-prasad-kalluraya-m
+- 🌐 **Portfolio:** https://keerthikalluraya.vercel.app
 
 ---
 
 <p align="center">
-<i>"Learning one commit at a time."</i> 🚀
+  <i>"Learning one commit at a time."</i> 🚀
 </p>
