@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Keerthi Prasad Kalluraya M</h1>
+<h1 align="center">Hi, I'm Keerthi Prasad Kalluraya M 👋</h1>
 
-<h3 align="center">
-Data Engineer · SQL · Python · Azure · FastAPI · React
-</h3>
+<h3 align="center">Data Engineer · SQL · Python · Azure · FastAPI · React</h3>
 
 <p align="center">
-I'm a Data Engineer with an interest in data engineering, cloud technologies, and analytics. I enjoy building, learning, and documenting my journey through real-world projects.
+  I build data pipelines and analytics products, and I document my journey through real-world projects — learning one commit at a time.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keerthi-prasad-kalluraya-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:keerthikallurayam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://keerthikalluraya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -28,63 +26,50 @@ I'm a Data Engineer with an interest in data engineering, cloud technologies, an
 
 ## 👨‍💻 About Me
 
-- 💼 Data Engineer at a Germany-based startup
-- 📊 Working on Procurement Analytics and CSRD solutions
-- 🌱 Currently deepening my skills in SQL, Python, Azure, Data Engineering, FastAPI, React + TypeScript, and System Design
-- 📚 Documenting my learning publicly through projects and notes
-- 🎯 Focused on becoming a better Data Engineer every day
+- 💼 **Data Engineer** at a Germany-based startup, working on **Procurement Analytics** and **CSRD** solutions
+- 🏗️ Day to day: data modeling, ETL, reporting, full-stack feature work, and technical documentation
+- 🌱 Currently deepening my skills in **Data Engineering, Azure, System Design, and React + TypeScript**
+- 📚 Learning in public — sharing projects and notes as I go
 - 📫 Reach me at **keerthikallurayam@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,mysql" alt="Languages" />
-</p>
-
-**Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind" alt="Frameworks" />
-</p>
-
-**Cloud & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma" alt="Cloud and tools" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,mysql" alt="Python, Java, TypeScript, JavaScript, HTML, CSS, MySQL" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind" alt="React, Vite, FastAPI, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode,figma" alt="Azure, Git, GitHub, Linux, VS Code, Figma" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 What I'm Working On
 
-**Procurement Analytics Platform**
-- Procurement analytics and reporting
-- Frontend development
-- Testing, validation, and bug fixing
-- Feature development and business documentation
-
-**CSRD Platform**
-- Data flow diagrams and system architecture
-- Client environment documentation
-- CI/CD documentation
-- User documentation
-
-**Learning in Public**
-- SQL, Python, Azure, Git & GitHub, Linux
-- ETL, Data Warehousing, Data Engineering
-- System Design
+| Project | Focus |
+| --- | --- |
+| **Procurement Analytics Platform** | Analytics & reporting, frontend development, testing and validation, feature development, business documentation |
+| **CSRD Platform** | Data flow diagrams, system architecture, client environment docs, CI/CD and user documentation |
+| **Learning in Public** | SQL · Python · Azure · ETL & Data Warehousing · System Design · Linux |
 
 ---
 
-## 🌐 Previous Projects
+## 🌐 Selected Projects
 
-- Sahynex Tech Solutions
-- Sahyadri College Website
-- Heggade Vahini
-- Shri Harihareshwara Temple Website
-- Chokkadi Sri Rama Temple Website
-- HRMatters (ongoing)
+- **HRMatters** — HR management platform *(ongoing)*
+- **Sahynex Tech Solutions** — company website
+- **Sahyadri College Website** — institutional website
+- **Heggade Vahini** — web project
+- **Shri Harihareshwara Temple** & **Chokkadi Sri Rama Temple** — community websites
 
 ---
 
@@ -102,25 +87,6 @@ I'm a Data Engineer with an interest in data engineering, cloud technologies, an
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=captmk&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </p>
-
-> Note: these cards are generated by free public services. They're normally reliable, but if one ever shows broken again, it's a temporary outage on their end — refresh after a few minutes.
-
----
-
-## 📚 Currently Learning
-
-- SQL, Python, Azure
-- FastAPI, React
-- Data Engineering, Cloud Fundamentals
-- System Design
-
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** keerthikallurayam@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/keerthi-prasad-kalluraya-m
-- 🌐 **Portfolio:** https://keerthikalluraya.vercel.app
 
 ---
 
